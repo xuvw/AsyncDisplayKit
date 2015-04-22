@@ -80,6 +80,7 @@ See the CONTRIBUTING file for how to help out.
 ## test3
 ## test4
 ## test5
+## test6
 
 AsyncDisplayKit is BSD-licensed.  We also provide an additional patent grant.
 
