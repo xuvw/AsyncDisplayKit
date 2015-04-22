@@ -77,6 +77,7 @@ See the CONTRIBUTING file for how to help out.
 
 ## test1
 ## test2
+## test3
 
 AsyncDisplayKit is BSD-licensed.  We also provide an additional patent grant.
 
